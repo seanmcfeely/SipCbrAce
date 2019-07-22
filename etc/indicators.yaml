@@ -1,0 +1,5 @@
+status: Analyzed
+type:
+    - Windows - Registry
+#    - Windows - FileName
+#    - Windows - FilePath
